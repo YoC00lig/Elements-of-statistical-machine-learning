@@ -8,3 +8,4 @@ Elements of statistical machine learning course at AGH UST in 2023.
 
 🧩 <a href="https://github.com/YoC00lig/Elements-of-statistical-machine-learning/blob/main/lab03/lab3.ipynb">lab03</a> - Linear Regression
 
+🧩 <a href="https://github.com/YoC00lig/Elements-of-statistical-machine-learning/blob/main/lab04/lab4.ipynb">lab04</a> - Gaussian Processes Regresion and its Applications
