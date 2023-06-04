@@ -1,6 +1,9 @@
 # 📊 Elements of statistical machine learning
-Elements of statistical machine learning course at AGH UST in 2023.
+The repository contains solutions to the laboratories from the 'Elements of Statistical Machine Learning' course at AGH in 2023.
 
+The leading programming language during this course - Python 🐍.
+
+# 📋 Table of contents:
 
 🧩 <a href="https://github.com/YoC00lig/Elements-of-statistical-machine-learning/blob/main/lab01/lab1.ipynb">lab01</a> - Monte Carlo introduction to Python, NumPy and Jupyter notebooks
 
